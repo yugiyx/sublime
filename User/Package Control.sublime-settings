@@ -1,0 +1,26 @@
+{
+	"auto_upgrade": false,
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://raw.githubusercontent.com/wilon/sublime/master/download/channel_v3.json"
+	],
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AlignTab",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Monokai Dark",
+		"Package Control",
+		"Seti_UI",
+		"SublimeREPL",
+		"Theme - Soda"
+	],
+	"timeout": 10
+}

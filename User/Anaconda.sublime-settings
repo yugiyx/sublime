@@ -1,0 +1,11 @@
+{
+    //库函数的提示
+    "enable_signatures_tooltip": true,
+    "merge_signatures_and_doc":true,
+    //ST3也有自动补全提示，但只提示文件中输入过的单词，这个功能可用提示变量可用的函数等。
+    "suppress_word_completions": true,
+    "suppress_explicit_completions": true,
+    "complete_parameters": false,
+    //忽略启动错误
+    "swallow_startup_errors": true,
+}
